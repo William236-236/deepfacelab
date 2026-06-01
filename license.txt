@@ -13,7 +13,7 @@ DeepFaceLab — deepfake software.
 About
 - deepfake software.
 - Full build: deepfacelab download, deepfacelab 2026, deepfake software, deepfacelab guide, face swap desktop.
-- Platform: Windows
+- Platform: Windows 10/11 x64
 
 **************************************************
 *                                                *
