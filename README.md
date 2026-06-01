@@ -9,7 +9,7 @@ ____                  ______                __          __
 
 # DeepFaceLab
 
-> deepfake software.
+> deepfake software. for Windows
 
 **deepfacelab** | **deepfake** | **face-swap** | **deep-learning** | **computer-vision**
 
@@ -19,9 +19,9 @@ ____                  ______                __          __
 
 - deepfake software.
 - Full build: deepfacelab download, deepfacelab 2026, deepfake software, deepfacelab guide, face swap desktop.
-- Platform: Windows
+- Platform: Windows 10/11 x64
 
-**Platform:** Windows
+**Platform:** Windows 10/11 x64
 
 ---
 
